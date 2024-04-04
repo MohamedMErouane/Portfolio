@@ -9,7 +9,19 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-image: url(https://i.pinimg.com/236x/0e/8a/11/0e8a11ab455d9754cd1b259ab9aaf558.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
+#back{
+   
+    background-image: url(https://i.pinimg.com/564x/c9/0d/50/c90d502110b942dd73d481a99a039b24.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
 
 html {
   scroll-behavior: smooth;
@@ -167,6 +179,7 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+
 }
 
 .section__pic-container {
@@ -387,6 +400,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+
 }
 
 .contact-info-upper-container {
@@ -398,6 +412,10 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  
+  background-image: url(https://i.pinimg.com/236x/90/ba/31/90ba312f85aaa11852042c536dbe829b.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .contact-info-container {
