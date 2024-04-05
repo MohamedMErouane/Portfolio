@@ -11,7 +11,7 @@
       height: fit-content;
     }
     .animated-text span::after{
-      background-color: rgb(123, 192, 186);
+      background-color: rgb(123, 192, 183);
     }
   }
   
